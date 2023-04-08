@@ -1,8 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,c
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,c
 build/
-cython2md/
-mkdocstrings_handlers/
+*.html
 ### C ###
 # Prerequisites
 *.d
