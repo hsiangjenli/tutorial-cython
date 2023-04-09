@@ -1,5 +1,8 @@
+# Copyright 2023 cython.org
+# This file includes code from https://github.com/cython/cython
+# licensed under the Apache License 2.0.
+
 # Description: Python implementation of the primes algorithm
-# Source: https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html
 
 def primes(nb_primes):
     p = []
